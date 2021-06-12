@@ -1,0 +1,37 @@
+@use "../abstracts/variables";
+
+.footer {
+  background: variables.$primary-color;
+  color: variables.$white-color;
+
+  &-container {
+    row-gap: 3rem;
+
+    @media only screen and (max-width: 40em) {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  &--address {
+    grid-column: 1 / span 2;
+    text-align: left;
+  }
+
+  &--social a {
+    margin-right: 2rem;
+  }
+
+  &--attribution {
+    justify-self: center;
+    grid-column: 1 / -1;
+
+    a {
+      text-decoration: underline;
+      transition: opacity 0.3s;
+
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+  }
+}

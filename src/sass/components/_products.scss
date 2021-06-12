@@ -1,0 +1,25 @@
+@use "../abstracts/variables";
+
+.product {
+  &-container {
+    @media only screen and (max-width: 49em) {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  &-display {
+    height: 100vh;
+  }
+
+  &-info-container {
+    gap: 5rem;
+
+    @media only screen and (max-width: 49em) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    @media only screen and (max-width: 35em) {
+      grid-template-columns: 1fr;
+    }
+  }
+}

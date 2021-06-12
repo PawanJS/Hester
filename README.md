@@ -17,7 +17,7 @@
 <br />
 <p align="center">
   <a href="https://hester-by-pawanjs.netlify.app/">
-    <img src="./src/images/default-favicon.ico" alt="Logo" width="100%" height="100%">
+    <img src="./src/images/default-favicon.ico" alt="Logo" width="30px" height="30px">
   </a>
 
   <h3 align="center">Forkify</h3>

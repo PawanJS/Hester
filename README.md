@@ -20,10 +20,10 @@
     <img src="./src/images/default-favicon.ico" alt="Logo" width="30px" height="30px">
   </a>
 
-  <h3 align="center">Forkify</h3>
+  <h3 align="center">Hester</h3>
 
   <p align="center">
-    A recipe search application made with javascript.
+   A e-commerce platform for pickle manufacturing business.
     <br />
     <a href="#about-the-project"><strong>Explore the docs »</strong></a>
     <br />

@@ -128,7 +128,7 @@ Start with the latest version of NPM to avoid any errors:
 
 ## Roadmap
 
-See the [open issues](https://github.com/PawanJS/forkify/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/PawanJS/Hester/issues) for a list of proposed features (and known issues).
 
 ### Proposed features
 
@@ -158,7 +158,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Pawan JS - [Say Hie](https://www.pawanjs.xyz/#contact)
 
-Project Link: [https://github.com/PawanJS/forkify](https://github.com/PawanJS/forkify)
+Project Link: [https://github.com/PawanJS/Hester](https://github.com/PawanJS/Hester)
 
 <!-- ACKNOWLEDGEMENTS -->
 

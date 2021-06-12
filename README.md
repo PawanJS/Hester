@@ -182,4 +182,4 @@ Project Link: [https://github.com/PawanJS/forkify](https://github.com/PawanJS/fo
 [issues-url]: https://github.com/PawanJS/Hester/issues
 [license-shield]: https://img.shields.io/apm/l/vim-mode?label=LICENSE&style=for-the-badge
 [license-url]: https://github.com/PawanJS/Hester/blob/master/LICENSE.txt
-[product-screenshot]: ./src/img/screenshot.jpg
+[product-screenshot]: ./src/images/screenshot.jpg

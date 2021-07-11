@@ -1,0 +1,17 @@
+[
+  {
+    "img": "../assets/images/product-1.jpg",
+    "link": "/shop/dill-pickles",
+    "alt": "dill-pickles"
+  },
+  {
+    "img": "../assets/images/product-2.jpg",
+    "link": "/shop/lemons",
+    "alt": "lemons"
+  },
+  {
+    "img": "../assets/images/product-3.jpg",
+    "link": "/shop/spring-mix",
+    "alt": "spring-mix"
+  }
+]

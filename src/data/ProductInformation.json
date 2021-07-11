@@ -1,0 +1,14 @@
+[
+    {
+        "img": "../assets/images/pickles.jpg",
+        "alt": "pickles"
+    },
+    {
+        "img": "../assets/images/hot-pepper.jpg",
+        "alt": "hot-pepper"
+    },
+    {
+        "img": "../assets/images/cabbage.jpg",
+        "alt": "cabbage"
+    }
+]

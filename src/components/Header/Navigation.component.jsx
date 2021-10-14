@@ -49,7 +49,7 @@ export default Navigation
 
 // Styled components
 const Navbar = styled.nav`
-  background: #e3b76a;
+  /* background: #e3b76a; */
   position: relative;
   z-index: 500;
 

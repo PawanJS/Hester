@@ -156,7 +156,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Pawan JS - [Say Hie](https://www.pawanjs.xyz/contact)
+Pawan JS - [Say Hie](https://www.pawanjs.netlify.app/contact)
 
 Project Link: [https://github.com/PawanJS/Hester](https://github.com/PawanJS/Hester)
 

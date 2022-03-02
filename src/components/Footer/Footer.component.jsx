@@ -33,7 +33,7 @@ const Footer = () => {
             Squarespace
           </a>
           coded by
-          <a href="https://www.pawanjs.xyz/" target="_blank" rel="noreferrer">
+          <a href="https://www.pawanjs.com/" target="_blank" rel="noreferrer">
             Pawan JS
           </a>
         </FooterCopy>
